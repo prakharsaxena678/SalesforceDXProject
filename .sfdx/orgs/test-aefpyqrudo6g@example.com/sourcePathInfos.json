@@ -32,27 +32,27 @@
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544773938891,
             "changeTime": 1544773938891,
-            "contentHash": "ed6bfb9d6f01b4bca87b7422b4b2a504db3e4987"
+            "contentHash": "ed6bfb9d6f01b4bca87b7422b4b2a504db3e4987",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544773938828,
             "changeTime": 1544773938828,
-            "contentHash": "f18c9d747f49eb3a76741e71875ff0c2091d4397"
+            "contentHash": "f18c9d747f49eb3a76741e71875ff0c2091d4397",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -294,209 +294,209 @@
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitComponent\\FruitComponent.cmp-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitComponent\\FruitComponent.cmp-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544773938799,
             "changeTime": 1544773938799,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitComponent\\FruitComponent.cmp",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitComponent\\FruitComponent.cmp",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 237,
             "modifiedTime": 1544773938808,
             "changeTime": 1544773938808,
-            "contentHash": "ae29a8376749007bf71795dc0ac57a9a9bb8d9fa"
+            "contentHash": "ae29a8376749007bf71795dc0ac57a9a9bb8d9fa",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitEvent\\FruitEvent.evt-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitEvent\\FruitEvent.evt-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544773938818,
             "changeTime": 1544773938818,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitEvent\\FruitEvent.evt",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitEvent\\FruitEvent.evt",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 62,
             "modifiedTime": 1544773938824,
             "changeTime": 1544773938824,
-            "contentHash": "8cdbd7f680e6f8409a64c03b86295cae27fe0eef"
+            "contentHash": "8cdbd7f680e6f8409a64c03b86295cae27fe0eef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitApp\\FruitApp.app-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitApp\\FruitApp.app-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 228,
             "modifiedTime": 1544773938832,
             "changeTime": 1544773938832,
-            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7"
+            "contentHash": "5217b92ebc2fd18b1fa120b9e273319a153146a7",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitApp\\FruitApp.app",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitApp\\FruitApp.app",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 71,
             "modifiedTime": 1544773938837,
             "changeTime": 1544773938837,
-            "contentHash": "dd39c431b381b0f1c106e9e7c03e1192c9f72eef"
+            "contentHash": "dd39c431b381b0f1c106e9e7c03e1192c9f72eef",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\pages\\FruitVisualForcePage.page-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\pages\\FruitVisualForcePage.page-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 296,
             "modifiedTime": 1544773938846,
             "changeTime": 1544773938846,
-            "contentHash": "91c0c330ec55342f4e8baaacc3b1d3345ff22dc9"
+            "contentHash": "91c0c330ec55342f4e8baaacc3b1d3345ff22dc9",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\pages\\FruitVisualForcePage.page",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\pages\\FruitVisualForcePage.page",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 25,
             "modifiedTime": 1544773938853,
             "changeTime": 1544773938853,
-            "contentHash": "a1472bcc4a61ebaa8178872d68d9fe521d3a83c6"
+            "contentHash": "a1472bcc4a61ebaa8178872d68d9fe521d3a83c6",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\FruitApexClass.cls-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\FruitApexClass.cls-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 174,
             "modifiedTime": 1544773938870,
             "changeTime": 1544773938870,
-            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\FruitApexClass.cls",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\FruitApexClass.cls",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 111,
             "modifiedTime": 1544773938879,
             "changeTime": 1544773938879,
-            "contentHash": "3832e536364adc77dbb142d64e6e0911dd27cce1"
+            "contentHash": "3832e536364adc77dbb142d64e6e0911dd27cce1",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\triggers\\FruitTrigger.trigger-meta.xml",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\triggers\\FruitTrigger.trigger-meta.xml",
             "isDirectory": false,
-            "isMetadataFile": true,
             "size": 178,
             "modifiedTime": 1544773938895,
             "changeTime": 1544773938895,
-            "contentHash": "12d084f642d1a7ac8faa5952932bd3dba75c8c9d"
+            "contentHash": "12d084f642d1a7ac8faa5952932bd3dba75c8c9d",
+            "isMetadataFile": true,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\triggers\\FruitTrigger.trigger",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\triggers\\FruitTrigger.trigger",
             "isDirectory": false,
-            "isMetadataFile": false,
             "size": 58,
             "modifiedTime": 1544773938903,
             "changeTime": 1544773938903,
-            "contentHash": "35e00e9d818b1c2cd38c780048a247b4a9afc958"
+            "contentHash": "35e00e9d818b1c2cd38c780048a247b4a9afc958",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitComponent",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitComponent",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544773938805,
             "changeTime": 1544773938805,
-            "contentHash": "132a974d9c85f974b8ffbd32f572df88ac0f67a2"
+            "contentHash": "132a974d9c85f974b8ffbd32f572df88ac0f67a2",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitEvent",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitEvent",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544773938823,
             "changeTime": 1544773938823,
-            "contentHash": "a37be7b53a3d13e0afe2074f376b26f9a5ef8f5e"
+            "contentHash": "a37be7b53a3d13e0afe2074f376b26f9a5ef8f5e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitApp",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura\\FruitApp",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544773938836,
             "changeTime": 1544773938836,
-            "contentHash": "1f1541cd82a14cf099ccee244450951561cf8898"
+            "contentHash": "1f1541cd82a14cf099ccee244450951561cf8898",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\pages",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\pages",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544773938851,
             "changeTime": 1544773938851,
-            "contentHash": "967faceee4a9750b5def264126528732fae49d7e"
+            "contentHash": "967faceee4a9750b5def264126528732fae49d7e",
+            "isMetadataFile": false,
+            "state": "u"
         }
     ],
     [
@@ -507,22 +507,48 @@
             "isDirectory": true,
             "isMetadataFile": false,
             "size": 0,
-            "modifiedTime": 1544773938877,
-            "changeTime": 1544773938877,
-            "contentHash": "1d927f2d35f18b5fab4f8c0e08f1ac6b99731023"
+            "modifiedTime": 1544774453294,
+            "changeTime": 1544774453294,
+            "contentHash": "d987bb305200a068a30d2fbf7e594bab692c8554"
         }
     ],
     [
         "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\triggers",
         {
-            "state": "u",
             "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\triggers",
             "isDirectory": true,
-            "isMetadataFile": false,
             "size": 0,
             "modifiedTime": 1544773938901,
             "changeTime": 1544773938901,
-            "contentHash": "770bc96bb8b3e1aede190daefb3505a3a79e8a3b"
+            "contentHash": "770bc96bb8b3e1aede190daefb3505a3a79e8a3b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\NewFruitApexClass.cls-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\NewFruitApexClass.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1544774453290,
+            "changeTime": 1544774453290,
+            "contentHash": "acdd80366dfee192a19331bfa686b269d836d68a"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\NewFruitApexClass.cls",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\classes\\NewFruitApexClass.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 123,
+            "modifiedTime": 1544774453295,
+            "changeTime": 1544774453295,
+            "contentHash": "3b4651b63dbc68f2218e6c30aa1dfe20fe821383"
         }
     ]
 ]
