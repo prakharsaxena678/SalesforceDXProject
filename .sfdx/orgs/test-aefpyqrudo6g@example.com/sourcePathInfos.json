@@ -1,0 +1,296 @@
+[
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544691153084,
+            "changeTime": 1544691153084,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544691153085,
+            "changeTime": 1544691153085,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643629,
+            "changeTime": 1544772643629,
+            "contentHash": "4f090b12d069ab492a48d0da355988187018b1a5"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544691153086,
+            "changeTime": 1544691153086,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject",
+        {
+            "state": "n",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544769433267,
+            "changeTime": 1544769433267,
+            "contentHash": "806ba1a6fdbf66cfb747163cfbc2797dba062b4e",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\Fruit__c.object-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2008,
+            "modifiedTime": 1544772643578,
+            "changeTime": 1544772643578,
+            "contentHash": "1b003bad750fa9ef9d1710d6c6d4a1d274a1fcec"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Country__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 359,
+            "modifiedTime": 1544772643581,
+            "changeTime": 1544772643581,
+            "contentHash": "d393251d0b5002e8c3d44a97ca868fa7e2604558"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\fields\\Fruit_Name__c.field-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 365,
+            "modifiedTime": 1544772643583,
+            "changeTime": 1544772643583,
+            "contentHash": "3a15ed2daf2ac1371c33aa8a235f9af870e2bf45"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 204,
+            "modifiedTime": 1544772643586,
+            "changeTime": 1544772643586,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\layouts\\Fruit__c-Fruit Layout.layout-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 2224,
+            "modifiedTime": 1544772643606,
+            "changeTime": 1544772643606,
+            "contentHash": "93b609d965c676d0165e5b39849972310c82cb18"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\tabs\\Fruit__c.tab-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 222,
+            "modifiedTime": 1544772643616,
+            "changeTime": 1544772643616,
+            "contentHash": "e6d3ceb7c99eb8a50672ce743ff76440c6fcc5a6"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 5190,
+            "modifiedTime": 1544772643636,
+            "changeTime": 1544772643636,
+            "contentHash": "93f115fd54682eff1d452dd591ce1135d9e7538e"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4852,
+            "modifiedTime": 1544772643656,
+            "changeTime": 1544772643656,
+            "contentHash": "e16a1a9f82774ece185ff0a33649d7116277c2d0"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 4852,
+            "modifiedTime": 1544772643677,
+            "changeTime": 1544772643677,
+            "contentHash": "e16a1a9f82774ece185ff0a33649d7116277c2d0"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 18719,
+            "modifiedTime": 1544772643725,
+            "changeTime": 1544772643725,
+            "contentHash": "6b0976a9360520c37d9e4ff709b0b3e4613aa5f2"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643584,
+            "changeTime": 1544772643584,
+            "contentHash": "66af05d6e617d214f0fb9dd09c7893dc89604a8e"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643560,
+            "changeTime": 1544772643560,
+            "contentHash": "e5e02b5b544b75f660aa97a44c1a361d5fd2112c"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\fields",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643581,
+            "changeTime": 1544772643581,
+            "contentHash": "b2e2f7b67d9d9fc60c14d64f8a468f53c24a9e26"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\objects\\Fruit__c\\listViews",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643585,
+            "changeTime": 1544772643585,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\layouts",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643602,
+            "changeTime": 1544772643602,
+            "contentHash": "34c6cd682ae6f398dd3c7d51a0f2e623bbdc23ef"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\tabs",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643614,
+            "changeTime": 1544772643614,
+            "contentHash": "60eec67ed4d8184a3c0378106174081de1f1eb35"
+        }
+    ],
+    [
+        "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles",
+        {
+            "state": "u",
+            "sourcePath": "D:\\Prakhar\\Salesforce\\SalesforceDX\\NewProject\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1544772643724,
+            "changeTime": 1544772643724,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717"
+        }
+    ]
+]
